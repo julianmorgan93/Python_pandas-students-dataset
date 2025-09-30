@@ -1,10 +1,10 @@
 📊 Python_pandas-students-dataset // Exploring the dataset
 
-This repository contains a Jupyter Notebook and a sample dataset to help you learn data analysis with Pandas.
+This repository contains a hands-on Python script demonstrating data analysis with Pandas, using students dataset
 
 📂 What's Inside?
 
-PythonDay3_Pandas.ipynb → Interactive notebook with Pandas examples
+Python_pandas-students-dataset.ipynb → Interactive notebook with Pandas examples
 student.xlsx → Sample dataset for practice
 
 
